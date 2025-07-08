@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+yolo-venv/
+yolo-venv310/
+
+# Video files (large files)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Model files (large files)
+*.pt
+*.pth
+*.weights
+*.onnx
+
+# Output and debug folders
+debug_crops/
+debug_plates/
+debug_plates_enhanced/
+output_plates/
+runs/
+
+# JSON output files (optional - remove if you want to include them)
+detected_plates*.json
+vehicle_timeline.json
+
+# Dataset folders (large)
+ANPR/test/
+ANPR/train/
+ANPR/valid/
+yolo_dataset/
+icdar2015/
+
+# IDE and system files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

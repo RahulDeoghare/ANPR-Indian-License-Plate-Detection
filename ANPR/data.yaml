@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['vehicle']
+
+roboflow:
+  workspace: tidalwave
+  project: anpr-qnzm0
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tidalwave/anpr-qnzm0/dataset/4
