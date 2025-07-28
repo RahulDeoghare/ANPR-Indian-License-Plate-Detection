@@ -1,0 +1,4 @@
+2025-07-28 12:46:07,245 - WARNING - Failed to initialize PaddleOCR with custom settings: Unknown argument: det_algorithm
+2025-07-28 12:46:07,245 - ERROR - Failed to initialize PaddleOCR: Unknown argument: show_log
+2025-07-28 12:47:31,019 - WARNING - Failed to initialize PaddleOCR with custom settings: Unknown argument: det_algorithm
+2025-07-28 12:47:31,020 - ERROR - Failed to initialize PaddleOCR: Unknown argument: show_log
